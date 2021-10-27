@@ -4,5 +4,5 @@ jenkins/jenkins:lts-jdk11 with ansible and boto3 installed (latter for aws modul
 
 ### Docker Hub:
 
-[#### medoth/jenkins-ansible](https://hub.docker.com/repository/docker/medoth/jenkins-ansible)
+[medoth/jenkins-ansible](https://hub.docker.com/repository/docker/medoth/jenkins-ansible)
 
